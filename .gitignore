@@ -9,5 +9,5 @@ settings.py
 ;;directories to ignore
 .idea/
 
-might2env/
+night2env/
 
